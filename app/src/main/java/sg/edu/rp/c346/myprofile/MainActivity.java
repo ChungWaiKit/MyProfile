@@ -60,6 +60,8 @@ public class MainActivity extends AppCompatActivity {
        etName.setText(msg);
        etGPA.setText(String.valueOf(gpa));
        rpGender.check(rp);
+
+       //this is a new line 
     }
 }
 
